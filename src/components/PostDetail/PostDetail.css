@@ -1,0 +1,9 @@
+.post-detail {
+  background-color: cornflowerblue;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+.detail-action a {
+  margin-right: 10px;
+}
